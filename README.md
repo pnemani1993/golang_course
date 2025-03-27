@@ -1,2 +1,3 @@
-# golang_course
-Golang course for web development and terminal apps
+# Golang course - web development and terminal apps
+Contents: 
+- Sending a HTTPS request using TCP 
